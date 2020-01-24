@@ -1,7 +1,9 @@
 # ロボットシステム学課題概要
 
 ## やったこと
-* pythonとc++でトピック通信するプログラムを作成しました．
+* pythonとc++でトピック通信するプログラムを作成しました.
+
+![](https://github.com/Takuyakataoka/Robosys2019_a2/blob/master/Robosys_graph.png)
 
 ## 参考
 * 上田先生のロボットシステム学の講義資料を参考にさせていただきました．  
