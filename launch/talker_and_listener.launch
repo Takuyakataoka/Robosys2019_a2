@@ -1,0 +1,6 @@
+<launch>
+    <node pkg="Robosys2019_a2" type="talker" name="talker" output="screen">
+    </node>
+    <node pkg="Robosys2019_a2" type="listener.py" name="listener" output="screen">
+    </node>
+</launch>
