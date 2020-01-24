@@ -14,3 +14,4 @@ https://github.com/ryuichiueda/robosys2019
 $ roslaunch Robosys2019_a2 talker_and_listener.launch
 ```
 ## 動画
+https://youtu.be/qOd3ClpAdDw
